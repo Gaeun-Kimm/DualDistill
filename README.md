@@ -2,7 +2,7 @@
 
 </div>
 
-[https://github.com/user-attachments/assets/7ffcfbec-1a66-4b52-80c4-c127b685e535](https://github.com/user-attachments/assets/7ffcfbec-1a66-4b52-80c4-c127b685e535)
+[https://github.com/user-attachments/assets/6853248f-23f9-46b2-b4b2-559a67588ce7](https://github.com/user-attachments/assets/6853248f-23f9-46b2-b4b2-559a67588ce7)
 
 > DualDistill: A Unified Cross-Modal Knowledge Distillation Framework for Camera-Based BEV Representation, BMVC 2025
 > 
@@ -29,13 +29,6 @@ Cross-modal knowledge distillation has drawn much attention to camera-based bird
 
 # Model Zoo
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
 # Bibtex
 
