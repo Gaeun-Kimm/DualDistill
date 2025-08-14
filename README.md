@@ -1,7 +1,3 @@
-# GitHub
-
-<div align="center">
-
 # DualDistill: A Unified Cross-Modal Knowledge Distillation Framework for Camera-Based BEV Representation
 
 </div>
@@ -23,7 +19,7 @@ Cross-modal knowledge distillation has drawn much attention to camera-based bird
 
 # Methods
 
-![image.png](GitHub%2024ff5bc9da01803a9240cf43b89d0e3d/image.png)
+![image.png](https://github.com/user-attachments/assets/d6a3561e-3f0d-403d-b150-067fa43bc5ce)
 
 # Getting Started
 
