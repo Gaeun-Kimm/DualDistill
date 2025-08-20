@@ -4,7 +4,7 @@
 
 </div>
 
-[https://github.com/user-attachments/assets/6853248f-23f9-46b2-b4b2-559a67588ce7](https://github.com/user-attachments/assets/6853248f-23f9-46b2-b4b2-559a67588ce7)
+[https://github.com/user-attachments/assets/ff58642e-5686-4a35-bf59-7635bb4de621](https://github.com/user-attachments/assets/ff58642e-5686-4a35-bf59-7635bb4de621)
 
 > DualDistill: A Unified Cross-Modal Knowledge Distillation Framework for Camera-Based BEV Representation, BMVC 2025
 > 
