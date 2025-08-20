@@ -147,9 +147,9 @@ python tools/test.py configs/lidar2camera_bev_distillation/teacher_to_bevformer/
 
 | Student | Teacher | Backbone | mAP | NDS | Download |
 | --- | --- | --- | --- | --- | --- |
-| BEVDepth |  | ResNet-50 | 35.1 | 47.5 |  |
-| BEVDepth | CenterPoint | ResNet-50 | 40.5 | 51.4 |  |
-| BEVDepth | MVP | ResNet-50 | 41.5 | 51.9 |  |
-| BEVDepth |  | ResNet-100 | 41.2 | 53.5 |  |
-| BEVDepth | CenterPoint | ResNet-100 | 45.5 | 55.6 |  |
-| BEVDepth | MVP | ResNet-100 | 46.6 | 56.3 |  |
+| BEVDepth |  | [ResNet-50](https://drive.google.com/file/d/1zVWBKf3GpFzMXgSPYYqnkZ822IpxDrl_/view?usp=sharing) | 35.1 | 47.5 | |
+| BEVDepth | [CenterPoint](https://drive.google.com/file/d/1XBiN8uxEr3RcV1aB40YYqeGUe1m_k89B/view?usp=sharing) | ResNet-50 | 40.5 | 51.4 | [checkpoint](https://drive.google.com/file/d/1_3sMGlrBeMwTMkRpd01sKR9YcUw5IlwE/view?usp=sharing) |
+| BEVDepth | [MVP](https://drive.google.com/file/d/19weXVX4qf3wcNX1FHdnb2NCrAYg-35DU/view?usp=sharing) | ResNet-50 | 41.5 | 51.9 | [checkpoint](https://drive.google.com/file/d/1koNxltxt7gYNm_oBUsg05Yt_36LUyTm5/view?usp=sharing) |
+| BEVDepth |  | [ResNet-101](https://drive.google.com/file/d/1yQgzd93LxTy1XAaEp-z_BWKiZPJWtHPc/view?usp=sharing) | 41.2 | 53.5 |  |
+| BEVDepth | CenterPoint | ResNet-101 | 45.5 | 55.6 | [checkpoint](https://drive.google.com/file/d/1xKbFN3yDsPlZNMLlPaDh9TuQO72zwO_D/view?usp=sharing) |
+| BEVDepth | MVP | ResNet-101 | 46.6 | 56.3 | [checkpoint](https://drive.google.com/file/d/1eDIbIRa7AtOcmp_1Z8H_Y3BoYOMkd829/view?usp=sharing) |
