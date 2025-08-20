@@ -4,7 +4,8 @@
 
 </div>
 
-[DualDistill.mp4](https://drive.google.com/file/d/11savWOoJLVAy4MJ_RomBr9WTf1d-1S6f/view?usp=share_link)
+<!-- [DualDistill.mp4](https://drive.google.com/file/d/11savWOoJLVAy4MJ_RomBr9WTf1d-1S6f/view?usp=share_link) -->
+<video src="docs/DualDistill.mp4" controls autoplay loop muted width="640"></video>
 
 > DualDistill: A Unified Cross-Modal Knowledge Distillation Framework for Camera-Based BEV Representation, BMVC 2025
 > 
