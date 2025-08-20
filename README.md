@@ -27,7 +27,7 @@ Cross-modal knowledge distillation has drawn much attention to camera-based bird
 
 ---
 
-![image.png](DualDistill%20A%20Unified%20Cross-Modal%20Knowledge%20Distil%2024ff5bc9da01803a9240cf43b89d0e3d/image.png)
+![image.png](https://github.com/user-attachments/assets/8292f5bc-9cc5-423e-9ee0-e02e352538ec)
 
 # Getting Started
 
@@ -155,16 +155,3 @@ python tools/test.py configs/lidar2camera_bev_distillation/teacher_to_bevformer/
 | BEVDepth |  | ResNet-100 | 41.2 | 53.5 |  |
 | BEVDepth | CenterPoint | ResNet-100 | 45.5 | 55.6 |  |
 | BEVDepth | MVP | ResNet-100 | 46.6 | 56.3 |  |
-
-<!-- # Bibtex
-
-If this work is helpful for your research, please consider citing the following BibTeX entry.
-
-```
-@article{,
-  title={},
-  author={}
-  journal={},
-  year={}
-} -->
-```
