@@ -12,26 +12,22 @@
 
 # News
 
----
 
 - [2025/07]: DualDistill is accepted at BMVC 2025 🔥
 </br>
 
 # Abstract
 
----
 
 Cross-modal knowledge distillation has drawn much attention to camera-based bird’s-eye-view (BEV) models, aiming to narrow the performance gap with their LiDAR-based counterparts. However, distilliing knowledge from a LiDAR-based teacher is not easy due to the discrepancy between sensor modalities. In this work, we introduce DualDistill, a unified cross-modal knowledge distillation framework to address this challenge. We propose an attention-guided orthogonal alignment (AOA) to align student features with the teacher's representations while preserving useful information. This alignment is integrated into a multi-scale feature distillation with adaptive region weighting scheme. In addition, we introduce a cross-head response distillation (CRD) to enforce consistency in BEV representations by comparing the predictions of the teacher and the aligned student. We evaluate our method on the nuScenes dataset. Comprehensive experiments show that our method significantly improves camera-based BEV models and outperforms recent cross-modal knowledge distillation techniques.
 
 # Methods
 
----
 
 ![image.png](https://github.com/user-attachments/assets/d6a3561e-3f0d-403d-b150-067fa43bc5ce)
 
 # Getting Started
 
----
 
 ### Installation
 
