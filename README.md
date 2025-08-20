@@ -27,7 +27,7 @@ Cross-modal knowledge distillation has drawn much attention to camera-based bird
 
 ---
 
-![image.png](https://github.com/user-attachments/assets/8292f5bc-9cc5-423e-9ee0-e02e352538ec/image.png)
+![image.png](https://github.com/user-attachments/assets/d6a3561e-3f0d-403d-b150-067fa43bc5ce)
 
 # Getting Started
 
