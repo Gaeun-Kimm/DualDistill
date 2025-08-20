@@ -10,7 +10,7 @@
 
 > DualDistill: A Unified Cross-Modal Knowledge Distillation Framework for Camera-Based BEV Representation, BMVC 2025
 > 
-> - [Paper in OpenReview](https://openreview.net/forum?id=8sek44Vz1p#discussion)
+> - [Paper](https://openreview.net/pdf?id=8sek44Vz1p)
 
 # News
 
