@@ -10,7 +10,7 @@
 
 > DualDistill: A Unified Cross-Modal Knowledge Distillation Framework for Camera-Based BEV Representation, BMVC 2025
 > 
-> - [Paper](https://github.com/user-attachments/files/22247572/BMVC.camera.ready.0814.pdf)
+> - [Paper](https://github.com/Gaeun-Kimm/DualDistill/blob/master/DualDistill_BMVC.pdf)
 
 # News
 
